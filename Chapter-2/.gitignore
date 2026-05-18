@@ -1,0 +1,5 @@
+# Ignore Maven build output
+/demo-aws/target/
+
+# Java class files
+*.class
